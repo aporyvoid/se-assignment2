@@ -1,0 +1,2 @@
+Agile velocity = estimate of how many points to complete in sprint
+Burndown Chart = tracks optimal and actual progress
